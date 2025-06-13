@@ -28,6 +28,8 @@ This project demonstrates automated Python code generation and execution for ene
     ```
 
 3. Obtain a [Groq API key](https://console.groq.com) and set it in your notebook or environment.
+   
+4. Download the dataset file from the above link and place it in same folder.
 
 ## Usage
 
